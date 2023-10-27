@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/register2.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/logout.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/blogger/createPost1.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/blogger/addReply.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/viewCategories.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/src/java/com/controller/BlogController.java</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/blogger/createPost2.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/dashboard.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/src/java/com/beans/Admin.java</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/viewBloggers.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/src/java/com/controller/BloggerController.java</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/blogin.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/footer.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/profile.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/blogger/viewEditPost.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/src/java/com/daos/AdminDao.java</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/blogger/profile.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/viewBlogDetail.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/viewBloggerDetail.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/src/java/com/db/DbConnection.java</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/login.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/register.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/upoadImage.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/blogger/viewFeedback.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/viewBlogs.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/header.jsp</file>
+            <file>file:/C:/Users/91756/Downloads/Java%20Project/web/admin/sidebar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
